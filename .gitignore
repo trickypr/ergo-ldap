@@ -1,2 +1,4 @@
 *.swp
 ergo-ldap
+result
+.direnv
